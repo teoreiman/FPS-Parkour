@@ -5,7 +5,6 @@ using TMPro;
 public class UI_MANAGER : MonoBehaviour
 {
     public TextMeshProUGUI txtMoney;
-
     // Start is called before the first frame update
     void Start()
     {
