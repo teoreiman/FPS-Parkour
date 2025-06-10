@@ -2008,21 +2008,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 295cc55c765678b4ab1aeec2445df23f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  money: 0
-  uiManager: {fileID: 0}
---- !u!114 &960771594
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 960771591}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c8e5ff5a9dceba5448660fc74f692d26, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  txtMoney: {fileID: 0}
+  money: 100
+  uiManager: {fileID: 1952779461}
 --- !u!1 &1011104115 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: 575418c8492a33d438d983f8e789d128,
@@ -3733,7 +3720,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8e5ff5a9dceba5448660fc74f692d26, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  txtMoney: {fileID: 0}
+  txtMoney: {fileID: 1958237299}
 --- !u!4 &1952779462
 Transform:
   m_ObjectHideFlags: 0
